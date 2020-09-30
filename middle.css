@@ -1,0 +1,16 @@
+.middle{
+    margin-left: 100px;
+    width: 500px;
+    text-align: center;
+    overflow-x: hidden;
+    display: inline-block;
+    margin-bottom: 18px;
+}
+.middle img{
+    width: 500px;
+    height: 200px;
+    display: flex;
+}
+.middle span{
+    color: blueviolet;
+}
